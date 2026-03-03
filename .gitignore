@@ -1,1 +1,10 @@
 password.txt
+password.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.idea/
+.vscode/
