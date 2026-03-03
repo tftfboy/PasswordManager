@@ -1,4 +1,4 @@
-# Password Manager (Day 29)
+# Password Manager 
 
 A simple Tkinter password manager app built in Python.
 
